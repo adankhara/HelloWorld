@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="adffb9e6-4888-4cf2-842c-7921bd254a34" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../ForloopHW" beforeDir="false" afterPath="$PROJECT_DIR$/../ForloopHW" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../seleniumhw1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumhw1/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,7 +19,7 @@
     <session id="-727376267">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.2" value="2" />
@@ -101,7 +100,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="1038" />
     <option name="height" value="735" />
@@ -223,9 +222,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1038" height="735" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19734152" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14599092" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
