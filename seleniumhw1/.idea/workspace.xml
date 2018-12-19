@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0782272c-ecdc-449c-b69b-e9e583cb8200" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ash/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ash/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ash/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ash/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ash/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ash/ash.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ash/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ash/src/test/java/ash1/Test12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ash/src/test/java/browserdriver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/browserdriver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/seleniumhw/SeleniumHomeWork1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForloopHW" beforeDir="false" afterPath="$PROJECT_DIR$/../ForloopHW" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaHW3" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaHW3" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="793001394">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+          <entry key="properties" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+          <entry key="Properties" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1922" />
+          <entry key="properties" value="26" />
+          <entry key="xml" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1922" />
+          <entry key="Properties" value="26" />
+          <entry key="XML" value="19" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumhw/SeleniumHomeWork1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1475">
+              <caret line="110" column="8" selection-start-line="110" selection-start-column="8" selection-end-line="110" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/com/seleniumhw/SeleniumHomeWork1.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="1038" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="seleniumhw1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seleniumhw1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seleniumhw1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seleniumhw1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seleniumhw1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seleniumhw1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seleniumhw1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seleniumhw1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seleniumhw1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seleniumhw1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seleniumhw1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seleniumhw1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seleniumhw1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seleniumhw1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="seleniumhw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seleniumhw1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seleniumhw1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545131760532" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\AshaTesting\Src\seleniumhw1\src\test\java\browserdriver" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.SeleniumHomeWork1">
+    <configuration name="SeleniumHomeWork1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seleniumhw1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.seleniumhw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.seleniumhw" />
+      <option name="MAIN_CLASS_NAME" value="com.seleniumhw.SeleniumHomeWork1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumHomeWork1.compareProducts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seleniumhw1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.seleniumhw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.seleniumhw" />
+      <option name="MAIN_CLASS_NAME" value="com.seleniumhw.SeleniumHomeWork1" />
+      <option name="METHOD_NAME" value="compareProducts" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumHomeWork1.currency" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seleniumhw1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.seleniumhw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.seleniumhw" />
+      <option name="MAIN_CLASS_NAME" value="com.seleniumhw.SeleniumHomeWork1" />
+      <option name="METHOD_NAME" value="currency" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumHomeWork1.emailFriend" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seleniumhw1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.seleniumhw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.seleniumhw" />
+      <option name="MAIN_CLASS_NAME" value="com.seleniumhw.SeleniumHomeWork1" />
+      <option name="METHOD_NAME" value="emailFriend" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumHomeWork1.registraion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seleniumhw1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.seleniumhw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.seleniumhw" />
+      <option name="MAIN_CLASS_NAME" value="com.seleniumhw.SeleniumHomeWork1" />
+      <option name="METHOD_NAME" value="registraion" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.SeleniumHomeWork1.registraion" />
+      <item itemvalue="JUnit.SeleniumHomeWork1.currency" />
+      <item itemvalue="JUnit.SeleniumHomeWork1" />
+      <item itemvalue="JUnit.SeleniumHomeWork1.emailFriend" />
+      <item itemvalue="JUnit.SeleniumHomeWork1.compareProducts" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SeleniumHomeWork1" />
+        <item itemvalue="JUnit.SeleniumHomeWork1.compareProducts" />
+        <item itemvalue="JUnit.SeleniumHomeWork1.registraion" />
+        <item itemvalue="JUnit.SeleniumHomeWork1.emailFriend" />
+        <item itemvalue="JUnit.SeleniumHomeWork1.currency" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0782272c-ecdc-449c-b69b-e9e583cb8200" name="Default Changelist" comment="" />
+      <created>1544977692424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544977692424</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SeleniumHomeWork1_compareProducts - 2018.12.17 at 21h 55m 15s.xml">
+      <configuration name="SeleniumHomeWork1.compareProducts" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeleniumHomeWork1_compareProducts - 2018.12.17 at 21h 58m 15s.xml">
+      <configuration name="SeleniumHomeWork1.compareProducts" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeleniumHomeWork1_compareProducts - 2018.12.17 at 22h 01m 29s.xml">
+      <configuration name="SeleniumHomeWork1.compareProducts" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeleniumHomeWork1_compareProducts - 2018.12.17 at 22h 02m 10s.xml">
+      <configuration name="SeleniumHomeWork1.compareProducts" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeleniumHomeWork1_registraion - 2018.12.17 at 22h 33m 58s.xml">
+      <configuration name="SeleniumHomeWork1.registraion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeleniumHomeWork1_registraion - 2018.12.17 at 22h 35m 33s.xml">
+      <configuration name="SeleniumHomeWork1.registraion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeleniumHomeWork1_registraion - 2018.12.17 at 22h 36m 52s.xml">
+      <configuration name="SeleniumHomeWork1.registraion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeleniumHomeWork1_compareProducts - 2018.12.17 at 23h 09m 50s.xml">
+      <configuration name="SeleniumHomeWork1.compareProducts" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeleniumHomeWork1_compareProducts - 2018.12.17 at 23h 09m 52s.xml">
+      <configuration name="SeleniumHomeWork1.compareProducts" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeleniumHomeWork1 - 2018.12.18 at 10h 08m 17s.xml">
+      <configuration name="SeleniumHomeWork1" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19364598" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2852459" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32459018" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumhw/AppTest.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/src.zip!/com/sun/org/apache/bcel/internal/generic/Instruction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6750">
+          <caret line="287" column="23" selection-start-line="287" selection-start-column="23" selection-end-line="287" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumhw/SeleniumHomeWork1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1475">
+          <caret line="110" column="8" selection-start-line="110" selection-start-column="8" selection-end-line="110" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
